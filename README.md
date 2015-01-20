@@ -1,2 +1,2 @@
-# dfar
-Digital Forensics Artifact Reference
+# Digital Forensics Artifact Reference
+Searchable digital forensics artifact reference for Android.
